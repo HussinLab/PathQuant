@@ -29,8 +29,7 @@ License: [GNU General Public License (v3)](http://www.gnu.org/licenses/gpl-3.0.e
 
 ### Instructions
 
-* [Userguide Manuel](https://github.com/HussinLab/PathQuant/manual.pdf)
-* [Vignette](https://github.com/sandraTL/PathQuant/blob/master/vignettes/vignette.Rmd)
+* [Userguide Manuel](https://github.com/HussinLab/PathQuant/blob/main/manual.pdf)
 
 ### DOI
 [![DOI](x)
