@@ -1,0 +1,23 @@
+Package: PathQuant
+Type: Package
+Title: Annotation of gene-metabolite pairs using topology of KEGG
+        metabolic pathway maps
+Version: 0.1.0
+Date: 2023-01-01
+Author: Cantin Baron <cantin.baron@umontreal.ca>
+	Sandra Therrien-Laperriere <sandra.therrien.laperriere@gmail.com>
+        Sarah Cherkaoui <cherkaos@gmail.com>
+Maintainer: Cantin Baron <cantin.baron@umontreal.ca>
+Description: Modeling of KEGG metabolism pathway maps into compound graph format
+    to compute shortest reactional distance (SRD) for gene-metabolite pairs to
+    assess their biological relevance and output results in data.frame and
+    graphical outputs.
+License: GNU-3
+Imports:
+    igraph, XML, ggplot2, data.table, knitr, rmarkdown, scales, stringr, gdata,
+    RCurl, reshape2, stringr, dplyr, plyr, doParallel, parallel, foreach
+VignetteBuilder: knitr
+Suggests:
+    testthat, knitr, rmarkdown
+RoxygenNote: 6.1.1
+Encoding: UTF-8
