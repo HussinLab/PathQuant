@@ -19,7 +19,7 @@ install.packages("devtools")
 
 # Install PathQuant 
 library(devtools)
-devtools::install_github("SandraTL/PathQuant")
+devtools::install_github("HussinLab/PathQuant")
 library("PathQuant")
 ```
 
