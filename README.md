@@ -32,7 +32,7 @@ License: [GNU General Public License (v3)](http://www.gnu.org/licenses/gpl-3.0.e
 * [Userguide Manuel](https://github.com/HussinLab/PathQuant/blob/main/manual.pdf)
 
 ### DOI
-[![DOI](x)
+to add when pubished [![DOI]](x)
 
 
 
