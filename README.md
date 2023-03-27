@@ -1,4 +1,4 @@
-# PathQuant (Pathway Quantify)
+# PathQuant (Pathway Quantity)
 
 ---------------
 
