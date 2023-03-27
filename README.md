@@ -32,11 +32,11 @@ License: [GNU General Public License (v3)](http://www.gnu.org/licenses/gpl-3.0.e
 * [Userguide Manual](https://github.com/HussinLab/PathQuant/blob/main/manual.pdf)
 
 ### DOI
-[![DOI]](https://doi.org/10.1101/2023.03.22.533869)
+[DOI](https://doi.org/10.1101/2023.03.22.533869)
 
 ### Authors
-Cantin Baron 
-Sandra Therrien-Laperriere 
+Cantin Baron,  
+Sandra Therrien-Laperriere,  
 Sarah Cherkaoui 
 
 
