@@ -35,8 +35,6 @@ License: [GNU General Public License (v3)](http://www.gnu.org/licenses/gpl-3.0.e
 Baron C, Cherkaoui S, Therrien-Laperriere S, Ilboudo Y, Poujol R, Mehanna P, Garrett ME, Telen MJ, Ashley-Koch AE, Bartolucci P, Rioux JD, Lettre G, Rosiers CD, Ruiz M, Hussin JG. Gene-metabolite annotation with shortest reactional distance enhances metabolite genome-wide association studies results. iScience. 2023 Nov 14;26(12):108473. doi: 10.1016/j.isci.2023.108473. PMID: 38077122; PMCID: PMC10709128.
 * [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10709128/)
 
-* [BioRxiv](https://doi.org/10.1101/2023.03.22.533869)
-
 ### Authors
 Cantin Baron,  
 Sandra Therrien-Laperriere,  
